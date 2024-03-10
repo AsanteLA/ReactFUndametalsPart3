@@ -1,0 +1,46 @@
+{
+  "MovieData": [
+    {
+      "Category": "Action",
+      "Title": "The Dark Knight",
+      "Year": "2008",
+      "Director": "Christopher Nolan",
+      "Rating": "PG-13"
+    },
+    {
+      "Category": "Action",
+      "Title": "Inception",
+      "Year": "2010",
+      "Director": "Christopher Nolan",
+      "Rating": "PG-13"
+    },
+    {
+      "Category": "Action",
+      "Title": "The Matrix",
+      "Year": "1999",
+      "Director": "Lana Wachowski, Lilly Wachowski",
+      "Rating": "R"
+    },
+    {
+      "Category": "Action",
+      "Title": "The Avengers",
+      "Year": "2012",
+      "Director": "Joss Whedon",
+      "Rating": "PG-13"
+    },
+    {
+      "Category": "Action",
+      "Title": "The Dark Knight Rises",
+      "Year": "2012",
+      "Director": "Christopher Nolan",
+      "Rating": "PG-13"
+    },
+    {
+        "Category": "Comedy",
+        "Title": "The Hangover",
+        "Year": "2009",
+        "Director": "Todd Phillips",
+        "Rating": "R"
+    }
+  ]
+}
